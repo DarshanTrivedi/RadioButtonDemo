@@ -1,0 +1,3 @@
+Android radio button is mostly used for offering a radio group containing a number of options for user to select one of them. I’ve also created a demo on [How to Implement Android Radio Button To Enhance App User-Interface](https://www.spaceotechnologies.com/android-radio-button-example/). 
+
+If you face any issue implementing it, you can contact me for help. Also, if you want to implement this feature in your Android App and looking to [Hire Android App Development Company](https://www.spaceotechnologies.com/android-app-development/) to help you, then you can contact Space-O Technologies for the same.
